@@ -10,7 +10,7 @@ function Sidebar() {
                 <div className="sidebar-top">
                     <div className="heading">
                         <div className="logo-heading">
-                            <img src="image.png" alt="" />
+                            <img src="Image.png" alt="" />
                             <div>
                                 <div>Nishyan</div>
                                 <a href="">Visit Store</a>

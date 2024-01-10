@@ -64,7 +64,7 @@ function Landing() {
                   </clipPath>
                 </defs>
               </svg>
-              <input type="search" placeholder="Order ID or Transaction ID" />
+              <input type="search" placeholder="Order ID" />
             </label>
           </div>
           <div className="header-icons footer-icons">
